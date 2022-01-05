@@ -1,0 +1,2 @@
+body{margin:0}html{font-family:Arial,Helvetica,sans-serif;font-size:100px}.block{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));color:#fff;line-height:300px;text-align:center}.block__1{background-color:red}.block__2{background-color:#c00}.block__3{background-color:#900}.block__4{background-color:#600}.block__5{background-color:#300}.block__6{background-color:#000}@media (min-width:900px){.block{grid-template-columns:1fr 1fr 1fr}}
+/*# sourceMappingURL=main.ecf8ffc3.css.map */
